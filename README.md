@@ -10,8 +10,7 @@ If n is odd, then you do 3n + 1.
 
 These calculations will continue to happen until the number eventually reaches one. 
 
-The Conjecture remains to be uncracked, as supercomputers have used numbers far beyond the billions range, and have yet to have the 
-Conjecture be disproven. 
+The Conjecture remains to be uncracked, as supercomputers have used numbers far beyond the billions range, and have yet to disprove it.
 
 I decided to write this very simple program in order to illustrate the concept to other people, without having to constantly do the 
 math by hand. Unfortunately, the number cap for the program is 2,147,483,647, as that's the highest possible integer value that you can
