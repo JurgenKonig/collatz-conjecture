@@ -5,6 +5,7 @@ The Collatz Conjecture is a mathematical concept that determines any number will
 any number of calculations. Here's how it works, for those who are unfamiliar: 
 
 If n is even, then you do n / 2 (n divided by 2).
+
 If n is odd, then you do 3n + 1. 
 
 These calculations will continue to happen until the number eventually reaches one. 
